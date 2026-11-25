@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#4d0f1f">
+  <title>Advent Calendar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <canvas id="snow" aria-hidden="true"></canvas>
+  <main>
+    <div id="preview-banner" class="banner" hidden>Preview mode: date and one-time lock are ignored</div>
+    <p class="eyebrow" id="eyebrow">Advent Calendar</p>
+    <h1 id="title">&nbsp;</h1>
+    <svg class="divider" viewBox="0 0 120 14" aria-hidden="true">
+      <path d="M0 7h46M74 7h46" stroke="currentColor" stroke-width="1"/>
+      <path d="M60 0l2 5 5 2-5 2-2 5-2-5-5-2 5-2z" fill="currentColor"/>
+    </svg>
+    <p id="message" hidden></p>
+
+    <div id="door-frame" class="door-frame" hidden>
+      <button id="door" class="door" type="button">
+        <span class="door-number" id="door-number"></span>
+        <span class="door-hint" id="door-hint">Tap to open</span>
+      </button>
+    </div>
+
+    <div id="reveal" class="reveal" hidden></div>
+  </main>
+  <script src="assets/common.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
