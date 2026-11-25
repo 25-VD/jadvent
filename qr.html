@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>QR Codes – Advent Calendar</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 24px 16px; font-family: Georgia, serif; color: #2a0610; background: #f8efe0; }
+    .wrap { max-width: 900px; margin: 0 auto; }
+    h1 { margin: 0 0 6px; color: #7a1b2f; }
+    p { margin: 0 0 14px; line-height: 1.5; }
+    form { display: flex; flex-wrap: wrap; gap: 10px; align-items: end; margin: 18px 0; }
+    label { display: flex; flex-direction: column; gap: 4px; font-size: 0.85rem; }
+    input[type=text] { padding: 9px 10px; border: 1px solid #a8334a; border-radius: 6px; font: inherit; min-width: 0; width: 220px; background: #fff; }
+    #base { width: min(100%, 380px); }
+    .check { flex-direction: row; align-items: center; gap: 6px; padding-bottom: 10px; }
+    button { padding: 10px 18px; border: 0; border-radius: 999px; background: #7a1b2f; color: #f8efe0; font: inherit; font-weight: 700; cursor: pointer; }
+    button.ghost { background: transparent; color: #7a1b2f; border: 1.5px solid #7a1b2f; }
+    #status { color: #7a1b2f; font-style: italic; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 14px; margin-top: 18px; }
+    .card { background: #fff; border: 2px solid #7a1b2f; border-radius: 10px; padding: 12px; text-align: center; break-inside: avoid; }
+    .card img { width: 100%; height: auto; image-rendering: pixelated; display: block; }
+    .card .num { font-size: 1.6rem; font-weight: 700; color: #7a1b2f; line-height: 1.2; }
+    .card .sub { font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase; color: #a8334a; }
+    .card a { font-size: 0.7rem; color: #7a1b2f; word-break: break-all; }
+    @media print {
+      body { background: #fff; padding: 0; }
+      .no-print, .card a { display: none !important; }
+      .grid { grid-template-columns: repeat(4, 1fr); gap: 8mm; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="no-print">
+      <h1>QR codes</h1>
+      <p>Enter the folder name of a calendar. A QR code is created for every door that has a file in it. Print this page or save the codes individually.</p>
+      <form id="form">
+        <label>Calendar folder
+          <input type="text" id="cal" placeholder="e.g. calendar-1" required pattern="[A-Za-z0-9_-]+">
+        </label>
+        <label>Website address
+          <input type="text" id="base">
+        </label>
+        <label class="check"><input type="checkbox" id="all"> include empty doors</label>
+        <button type="submit">Create</button>
+        <button type="button" class="ghost" onclick="print()">Print</button>
+      </form>
+      <p id="status"></p>
+    </div>
+    <div class="grid" id="grid"></div>
+  </div>
+
+  <script src="assets/qrcode.js"></script>
+  <script src="assets/common.js"></script>
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const params = new URLSearchParams(location.search);
+    $("base").value = location.href.split(/[?#]/)[0].replace(/qr(\.html)?$/, "");
+    if (params.get("c")) $("cal").value = params.get("c");
+
+    async function build() {
+      const cal = $("cal").value.trim();
+      const base = $("base").value.trim().replace(/\/?$/, "/");
+      const grid = $("grid");
+      grid.innerHTML = "";
+      if (!validCalendar(cal)) { $("status").textContent = "Please enter a valid folder name."; return; }
+      $("status").textContent = "Checking doors…";
+      const cfg = await loadConfig(cal);
+      if (!cfg) { $("status").textContent = 'No calendar folder "' + cal + '" with a valid config.json was found.'; return; }
+
+      const days = Array.from({ length: 24 }, (_, i) => i + 1);
+      const listed = await listAssets(cal);
+      const assets = listed ? days.map((d) => listed[d]) : await Promise.all(days.map((d) => findAsset(cal, d)));
+      let count = 0;
+      days.forEach((d, i) => {
+        if (!assets[i] && !$("all").checked) return;
+        count++;
+        const url = base + "?c=" + encodeURIComponent(cal) + "&d=" + d;
+        const qr = qrcode(0, "M");
+        qr.addData(url);
+        qr.make();
+        const card = document.createElement("div");
+        card.className = "card";
+        const img = new Image();
+        img.src = qr.createDataURL(8, 16);
+        img.alt = "QR code for door " + d;
+        const sub = document.createElement("div");
+        sub.className = "sub";
+        sub.textContent = cfg.title + (assets[i] ? "" : " (empty)");
+        const num = document.createElement("div");
+        num.className = "num";
+        num.textContent = d;
+        const a = document.createElement("a");
+        a.href = url; a.textContent = url; a.target = "_blank";
+        card.append(img, num, sub, a);
+        grid.append(card);
+      });
+      $("status").textContent = count
+        ? count + " QR code" + (count === 1 ? "" : "s") + " for “" + cfg.title + "” (" + cfg.year + ")."
+        : "No filled doors found in this calendar yet.";
+      if (/localhost|127\.0\.0\.1|^file:/.test(base)) $("status").textContent += " Note: the website address is local, so these codes will not work on a phone.";
+    }
+
+    $("form").addEventListener("submit", (e) => { e.preventDefault(); build(); });
+    if ($("cal").value) build();
+  </script>
+</body>
+</html>
