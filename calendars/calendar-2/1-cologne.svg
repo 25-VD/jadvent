@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-label="Cologne skyline">
+<title>Cologne skyline</title>
+<defs>
+<radialGradient id="v" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#8A6A2E" stop-opacity="0"/><stop offset="100%" stop-color="#8A6A2E" stop-opacity=".2"/></radialGradient>
+</defs>
+<rect width="900" height="1200" fill="#F6F0E4"/>
+<rect width="900" height="1200" fill="url(#v)"/>
+<rect x="38" y="38" width="824" height="1124" rx="30" fill="none" stroke="#C9A44C" stroke-width="2"/>
+<g transform="translate(104,104) rotate(20)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<g transform="translate(796,1096) rotate(200)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<path transform="translate(700,330) scale(1.1)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/><path transform="translate(190,420) scale(0.7)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.8"/><path transform="translate(760,560) scale(0.6)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.7"/>
+<text x="450" y="250" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="8" fill="#C9A44C">CLUE 1 OF 4</text>
+<g>
+<path d="M250,700 V500 L282,310 L314,500 V700 Z" fill="#5B1626"/><path d="M244,500 l6,-34 l6,34 Z M308,500 l6,-34 l6,34 Z" fill="#5B1626"/><path d="M282,310 v-22 M275,297 h14" stroke="#5B1626" stroke-width="3" fill="none"/><path d="M264,590 V547.0 Q271.0,533.0 278,547.0 V590 Z" fill="#F6F0E4"/><path d="M286,590 V547.0 Q293.0,533.0 300,547.0 V590 Z" fill="#F6F0E4"/><path d="M272,680 V630.0 Q282.0,610.0 292,630.0 V680 Z" fill="#F6F0E4"/><path d="M326,700 V500 L358,310 L390,500 V700 Z" fill="#5B1626"/><path d="M320,500 l6,-34 l6,34 Z M384,500 l6,-34 l6,34 Z" fill="#5B1626"/><path d="M358,310 v-22 M351,297 h14" stroke="#5B1626" stroke-width="3" fill="none"/><path d="M340,590 V547.0 Q347.0,533.0 354,547.0 V590 Z" fill="#F6F0E4"/><path d="M362,590 V547.0 Q369.0,533.0 376,547.0 V590 Z" fill="#F6F0E4"/><path d="M348,680 V630.0 Q358.0,610.0 368,630.0 V680 Z" fill="#F6F0E4"/>
+<path d="M390,700 V590 L400,566 H520 L532,590 V700 Z" fill="#5B1626"/>
+<path d="M455,566 l7,-70 l7,70 Z" fill="#5B1626"/>
+<path d="M408,668 V619.0 Q415.0,605.0 422,619.0 V668 Z" fill="#F6F0E4"/><path d="M436,668 V619.0 Q443.0,605.0 450,619.0 V668 Z" fill="#F6F0E4"/><path d="M464,668 V619.0 Q471.0,605.0 478,619.0 V668 Z" fill="#F6F0E4"/><path d="M492,668 V619.0 Q499.0,605.0 506,619.0 V668 Z" fill="#F6F0E4"/>
+<path d="M592,700 V600 h56 V700 Z M588,600 L620,520 L652,600 Z" fill="#5B1626" opacity=".82"/>
+<path d="M584,604 l6,-30 l6,30 Z M644,604 l6,-30 l6,30 Z" fill="#5B1626" opacity=".82"/>
+<path d="M612,674 V638.0 Q620.0,622.0 628,638.0 V674 Z" fill="#F6F0E4"/>
+<path d="M150,700 H750" stroke="#5B1626" stroke-width="3"/>
+<path d="M150,770 H750" stroke="#C9A44C" stroke-width="4"/>
+<path d="M150,770 Q250,668 350,770 Q450,668 550,770 Q650,668 750,770" fill="none" stroke="#C9A44C" stroke-width="4"/>
+<path d="M200,770 V726 M250,770 V719 M300,770 V726 M400,770 V726 M450,770 V719 M500,770 V726 M600,770 V726 M650,770 V719 M700,770 V726" stroke="#C9A44C" stroke-width="1.5"/>
+<path d="M350,770 V800 M550,770 V800 M150,770 V800 M750,770 V800" stroke="#C9A44C" stroke-width="4"/>
+<path d="M190,826 q20,-10 40,0 t40,0 t40,0 M420,846 q20,-10 40,0 t40,0 t40,0 t40,0 M600,822 q20,-10 40,0 t40,0" fill="none" stroke="#5B1626" stroke-opacity=".35" stroke-width="2" stroke-linecap="round"/>
+</g>
+<text x="450" y="965" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="34" fill="#5B1626">A city on the Rhine</text>
+</svg>
