@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-label="Lanxess Arena">
+<title>Lanxess Arena</title>
+<defs>
+<radialGradient id="v" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#8A6A2E" stop-opacity="0"/><stop offset="100%" stop-color="#8A6A2E" stop-opacity=".2"/></radialGradient>
+</defs>
+<rect width="900" height="1200" fill="#F6F0E4"/>
+<rect width="900" height="1200" fill="url(#v)"/>
+<rect x="38" y="38" width="824" height="1124" rx="30" fill="none" stroke="#C9A44C" stroke-width="2"/>
+<g transform="translate(104,104) rotate(20)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<g transform="translate(796,1096) rotate(200)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<path transform="translate(210,330) scale(1)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/><path transform="translate(720,420) scale(0.7)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.8"/><path transform="translate(160,860) scale(0.6)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.7"/>
+<text x="450" y="250" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="8" fill="#C9A44C">CLUE 2 OF 4</text>
+<g>
+<path d="M330,505 L354,562 M366,482 L383,558 M402,467 L412,556 M432,461 L436,555 M468,461 L464,555 M498,467 L488,556 M534,482 L517,558 M570,505 L546,562 " stroke="#C9A44C" stroke-width="1.5"/>
+<path d="M150,740 Q450,180 750,740" fill="none" stroke="#C9A44C" stroke-width="9" stroke-linecap="round"/>
+<path d="M235,590 Q450,520 665,590 L690,740 H210 Z" fill="#5B1626"/>
+<path d="M229,628 Q450,566 671,628" fill="none" stroke="#F6F0E4" stroke-width="3"/>
+<path d="M270,624 L252,740 M300,616 L285,740 M330,610 L318,740 M360,605 L351,740 M390,602 L384,740 M420,600 L417,740 M450,599 L450,740 M480,600 L483,740 M510,602 L516,740 M540,605 L549,740 M570,610 L582,740 M600,616 L615,740 M630,624 L648,740" stroke="#F6F0E4" stroke-opacity=".5" stroke-width="2"/>
+<path d="M410,740 V694 Q450,676 490,694 V740 Z" fill="#F6F0E4"/>
+<path d="M120,740 H780" stroke="#5B1626" stroke-width="3"/>
+</g>
+<text x="450" y="965" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="34" fill="#5B1626">Beneath the great arch</text>
+</svg>
