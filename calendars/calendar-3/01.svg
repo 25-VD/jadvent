@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-label="Day 1 of 24: Run 1 km your way. Walk 5 min, then jog 1 min, walk 90 s, repeat for 1 km. Well-lit route, bright jacket! Icy? Use a treadmill, or dance through 4 songs.">
+<title>Day 1 of 24: Run 1 km your way. Walk 5 min, then jog 1 min, walk 90 s, repeat for 1 km. Well-lit route, bright jacket! Icy? Use a treadmill, or dance through 4 songs.</title>
+<defs>
+<radialGradient id="v" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#8A6A2E" stop-opacity="0"/><stop offset="100%" stop-color="#8A6A2E" stop-opacity=".2"/></radialGradient>
+</defs>
+<rect width="900" height="1200" fill="#F6F0E4"/>
+<rect width="900" height="1200" fill="url(#v)"/>
+<rect x="38" y="38" width="824" height="1124" rx="30" fill="none" stroke="#C9A44C" stroke-width="2"/>
+<g transform="translate(104,104) rotate(20)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<g transform="translate(796,1096) rotate(200)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<path transform="translate(235,307) scale(1.0)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/><path transform="translate(650,397) scale(0.7)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.8"/><path transform="translate(165,1095) scale(0.6)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.7"/>
+<text x="454" y="196" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="23" letter-spacing="8" fill="#C9A44C">DAY 1 OF 24</text>
+<svg x="300" y="237" width="300" height="300" viewBox="0 0 300 300" overflow="visible">
+  <!-- whole drawing moved down 7 to stay centred after the shoe was made taller -->
+  <g transform="translate(0,7)">
+    <!-- gold speed lines behind the heel -->
+    <path transform="translate(0,-7.8)" d="M42,122 H58 M34,142 H58 M46,162 H58" stroke="#C9A44C" stroke-width="6" stroke-linecap="round" fill="none"/>
+    <!-- running shoe in side view, toe to the right: chunky midsole, low collar, rounded heel tab;
+         14% taller (same length), with the sole bottom kept fixed at y=198 -->
+    <g transform="translate(0,198) scale(1,1.14) translate(0,-198)">
+      <path d="M86,198 L220,198 C240,198 256,194 264,186 C272,178 271,166 260,161 C246,155 230,148 216,141 L166,112 C162,106 156,103 150,104 C144,105 140,110 136,115 C128,124 112,128 100,122 C92,118 86,110 82,106 C77,101 70,102 69,109 C66,126 66,148 72,166 L68,170 C63,174 62,186 68,192 C72,196 78,198 86,198 Z" fill="#5B1626"/>
+    </g>
+    <!-- cream sole stripe -->
+    <path transform="translate(0,-3.9)" d="M68,168 C114,166 190,173 230,174 C246,174.5 260,174 274,172" stroke="#F6F0E4" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+    <!-- cream lace marks -->
+    <path transform="translate(0,-8.7)" d="M174,123.6 L167.5,134.8 M186,130.5 L179.5,141.7 M198,137.5 L191.5,148.7" stroke="#F6F0E4" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
+<text x="450" y="569.7" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="bold" fill="#5B1626">Run 1 km your way</text>
+<path d="M378,622.5 H434 M466,622.5 H522" stroke="#C9A44C" stroke-width="1.5"/>
+<path transform="translate(450,623) scale(0.75)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/>
+<text x="450" y="689.9" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">Walk 5 min, then jog 1 min,</text><text x="450" y="743.9" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">walk 90 s, repeat for 1 km.</text><text x="450" y="797.8" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">Well-lit route, bright jacket!</text>
+<text x="450" y="858.3" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-style="italic" fill="#7D5E27">Icy? Use a treadmill,</text><text x="450" y="903.1" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-style="italic" fill="#7D5E27">or dance through 4 songs.</text>
+<text x="450" y="1042" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="38" fill="#5B1626">Let the countdown begin!</text>
+</svg>

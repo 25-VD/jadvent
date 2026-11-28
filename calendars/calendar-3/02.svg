@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-label="Day 2 of 24: 2 rounds: core. 20 s plank · 8 dead bugs 15 s side plank per side · 8 bird dogs. Knee planks count too!">
+<title>Day 2 of 24: 2 rounds: core. 20 s plank · 8 dead bugs 15 s side plank per side · 8 bird dogs. Knee planks count too!</title>
+<defs>
+<radialGradient id="v" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#8A6A2E" stop-opacity="0"/><stop offset="100%" stop-color="#8A6A2E" stop-opacity=".2"/></radialGradient>
+</defs>
+<rect width="900" height="1200" fill="#F6F0E4"/>
+<rect width="900" height="1200" fill="url(#v)"/>
+<rect x="38" y="38" width="824" height="1124" rx="30" fill="none" stroke="#C9A44C" stroke-width="2"/>
+<g transform="translate(104,104) rotate(20)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<g transform="translate(796,1096) rotate(200)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<path transform="translate(660,337) scale(1.0)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/><path transform="translate(245,447) scale(0.7)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.8"/><path transform="translate(735,215) scale(0.6)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.7"/>
+<text x="454" y="196" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="23" letter-spacing="8" fill="#C9A44C">DAY 2 OF 24</text>
+<svg x="300" y="277" width="300" height="300" viewBox="0 0 300 300" overflow="visible">
+  <!-- stopwatch crown on top and a side button at 45 degrees -->
+  <path d="M141,63 H159 V89 H141 Z" fill="#5B1626"/>
+  <rect x="125" y="45" width="50" height="18" rx="5" fill="#5B1626"/>
+  <g transform="translate(150,167) rotate(45)">
+    <path d="M-7,-101 H7 V-84 H-7 Z" fill="#5B1626"/>
+    <rect x="-16" y="-112" width="32" height="13" rx="4" fill="#5B1626"/>
+  </g>
+  <!-- ink ring with a cream face -->
+  <circle cx="150" cy="167" r="88" fill="#5B1626"/>
+  <circle cx="150" cy="167" r="70" fill="#F6F0E4"/>
+  <!-- gold tick marks: long at the quarters, short in between (the hand covers 2 o'clock) -->
+  <g stroke="#C9A44C" stroke-width="5" stroke-linecap="round" fill="none">
+    <path d="M150,106 V119 M211,167 H198 M150,228 V215 M89,167 H102"/>
+    <path d="M180.5,114.2 L177,120.2 M202.8,197.5 L196.8,194 M180.5,219.8 L177,213.8 M119.5,219.8 L123,213.8 M97.2,197.5 L103.2,194 M97.2,136.5 L103.2,140 M119.5,114.2 L123,120.2"/>
+  </g>
+  <!-- ink hand pointing at 2 o'clock, hub with a cream pin -->
+  <path d="M150,167 L196.8,140" stroke="#5B1626" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="150" cy="167" r="10" fill="#5B1626"/>
+  <circle cx="150" cy="167" r="3.5" fill="#F6F0E4"/>
+</svg>
+<text x="450" y="672.7" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="bold" fill="#5B1626">2 rounds: core</text>
+<path d="M378,730.3 H434 M466,730.3 H522" stroke="#C9A44C" stroke-width="1.5"/>
+<path transform="translate(450,730) scale(0.75)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/>
+<text x="450" y="797.6" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">20 s plank · 8 dead bugs</text><text x="450" y="851.6" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">15 s side plank per side · 8 bird dogs.</text><text x="450" y="905.5" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">Knee planks count too!</text>
+
+<text x="450" y="1042" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="38" fill="#5B1626">Steady as a nutcracker</text>
+</svg>

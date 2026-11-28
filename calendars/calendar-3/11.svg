@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-label="Day 11 of 24: Brisk walk 2 km. After work: walk to a Christmas market, loop the stalls, walk back. Friends welcome! Market too far? Walk 2 km past festive lights.">
+<title>Day 11 of 24: Brisk walk 2 km. After work: walk to a Christmas market, loop the stalls, walk back. Friends welcome! Market too far? Walk 2 km past festive lights.</title>
+<defs>
+<radialGradient id="v" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#8A6A2E" stop-opacity="0"/><stop offset="100%" stop-color="#8A6A2E" stop-opacity=".2"/></radialGradient>
+</defs>
+<rect width="900" height="1200" fill="#F6F0E4"/>
+<rect width="900" height="1200" fill="url(#v)"/>
+<rect x="38" y="38" width="824" height="1124" rx="30" fill="none" stroke="#C9A44C" stroke-width="2"/>
+<g transform="translate(104,104) rotate(20)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<g transform="translate(796,1096) rotate(200)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<path transform="translate(240,382) scale(1.0)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/><path transform="translate(640,302) scale(0.7)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.8"/><path transform="translate(720,230) scale(0.6)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.7"/>
+<text x="454" y="196" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="23" letter-spacing="8" fill="#C9A44C">DAY 11 OF 24</text>
+<svg x="300" y="252" width="300" height="300" viewBox="0 0 300 300" overflow="visible">
+  <!-- short ink trunk -->
+  <path d="M138,240 H162 V268 H138 Z" fill="#5B1626"/>
+  <!-- three ink tiers with gently curved sides; the upper two are cut free with a cream edge -->
+  <path d="M150,130 Q195,191.5 250,236 Q150,250 50,236 Q105,191.5 150,130 Z" fill="#5B1626"/>
+  <path d="M150,94 Q182.4,143.9 222,180 Q150,192 78,180 Q117.6,143.9 150,94 Z" fill="#5B1626" stroke="#F6F0E4" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M150,64 Q170.7,100 196,126 Q150,136 104,126 Q129.3,100 150,64 Z" fill="#5B1626" stroke="#F6F0E4" stroke-width="5" stroke-linejoin="round"/>
+  <!-- gold garland swoops -->
+  <path d="M119.5,146.9 Q150.7,177.9 197.2,165.2 M100.1,197.6 Q150.7,237.1 227,222.5" fill="none" stroke="#C9A44C" stroke-width="5" stroke-linecap="round"/>
+  <!-- tiny gold baubles -->
+  <g fill="#C9A44C">
+    <circle cx="138" cy="112" r="6"/>
+    <circle cx="174" cy="152" r="6"/>
+    <circle cx="114" cy="168" r="6"/>
+    <circle cx="188" cy="206" r="6"/>
+    <circle cx="98" cy="226" r="6"/>
+  </g>
+  <!-- gold star on top -->
+  <path d="M150,31 L155.4,46.6 L171.9,46.9 L158.7,56.8 L163.5,72.6 L150,63.2 L136.5,72.6 L141.3,56.8 L128.1,46.9 L144.6,46.6 Z" fill="#C9A44C"/>
+</svg>
+<text x="450" y="642.1" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="80" font-weight="bold" fill="#5B1626">Brisk walk 2 km</text>
+<path d="M378,698.1 H434 M466,698.1 H522" stroke="#C9A44C" stroke-width="1.5"/>
+<path transform="translate(450,698) scale(0.75)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/>
+<text x="450" y="765.5" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">After work: walk to a Christmas market,</text><text x="450" y="819.5" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">loop the stalls, walk back.</text><text x="450" y="873.4" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">Friends welcome!</text>
+<text x="450" y="933.9" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-style="italic" fill="#7D5E27">Market too far? Walk 2 km past festive lights.</text>
+<text x="450" y="1042" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="38" fill="#5B1626">Winter wonderland walk</text>
+</svg>
