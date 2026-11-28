@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-label="Day 20 of 24: Swim 1,500 m. 3 × 500 m (20 lengths each), any stroke, 1 min rest between. Your biggest swim yet! No pool? 50 min brisk walk instead.">
+<title>Day 20 of 24: Swim 1,500 m. 3 × 500 m (20 lengths each), any stroke, 1 min rest between. Your biggest swim yet! No pool? 50 min brisk walk instead.</title>
+<defs>
+<radialGradient id="v" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#8A6A2E" stop-opacity="0"/><stop offset="100%" stop-color="#8A6A2E" stop-opacity=".2"/></radialGradient>
+</defs>
+<rect width="900" height="1200" fill="#F6F0E4"/>
+<rect width="900" height="1200" fill="url(#v)"/>
+<rect x="38" y="38" width="824" height="1124" rx="30" fill="none" stroke="#C9A44C" stroke-width="2"/>
+<g transform="translate(104,104) rotate(20)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<g transform="translate(796,1096) rotate(200)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<path transform="translate(660,309) scale(1.0)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/><path transform="translate(245,419) scale(0.7)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.8"/><path transform="translate(735,215) scale(0.6)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.7"/>
+<text x="454" y="196" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="23" letter-spacing="8" fill="#C9A44C">DAY 20 OF 24</text>
+<svg x="300" y="249" width="300" height="300" viewBox="0 0 300 300" overflow="visible">
+  <!-- whole drawing nudged down 6 to sit centred in the box -->
+  <g transform="translate(0,6)">
+    <!-- swimmer in front crawl: back, head with swim cap, recovering arm
+         (the back's right edge ends at x=186 so it stays hidden under the head and the water) -->
+    <path d="M36,180 C64,156 98,134 132,131 C150,130 168,136 178,148 L186,180 Z" fill="#5B1626"/>
+    <!-- head, arm and cap line: 14 px left and 10% larger about the waterline -->
+    <g transform="translate(172,180) scale(1.1) translate(-186,-180)">
+      <circle cx="200" cy="150" r="28" fill="#5B1626"/>
+      <path d="M159,167.5 C156,110.5 168.5,83.5 188,81 C208,79 223.5,95 232.5,130 A8.5,8.5 0 0 0 249.5,126 C240.5,85.5 216.5,57.5 186,59 C152.5,59.5 128,104.5 129,168.5 Z" fill="#5B1626"/>
+      <path d="M178,145 Q198,129 219,139" fill="none" stroke="#F6F0E4" stroke-width="4.5" stroke-linecap="round"/>
+    </g>
+    <!-- water: cream cut under the top wave, then three gold waves -->
+    <path d="M38,180 q14,-12 28,0 t28,0 t28,0 t28,0 t28,0 t28,0 t28,0 t28,0" fill="none" stroke="#F6F0E4" stroke-width="16" stroke-linecap="round"/>
+    <path d="M38,180 q14,-12 28,0 t28,0 t28,0 t28,0 t28,0 t28,0 t28,0 t28,0" fill="none" stroke="#C9A44C" stroke-width="6" stroke-linecap="round"/>
+    <path d="M66,206 q14,12 28,0 t28,0 t28,0 t28,0 t28,0 t28,0" fill="none" stroke="#C9A44C" stroke-width="6" stroke-linecap="round"/>
+    <path d="M94,232 q14,-12 28,0 t28,0 t28,0 t28,0" fill="none" stroke="#C9A44C" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>
+<text x="450" y="644.1" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="bold" fill="#5B1626">Swim 1,500 m</text>
+<path d="M378,701.7 H434 M466,701.7 H522" stroke="#C9A44C" stroke-width="1.5"/>
+<path transform="translate(450,702) scale(0.75)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/>
+<text x="450" y="769.1" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">3 × 500 m (20 lengths each),</text><text x="450" y="823.1" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">any stroke, 1 min rest between.</text><text x="450" y="877.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">Your biggest swim yet!</text>
+<text x="450" y="937.5" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-style="italic" fill="#7D5E27">No pool? 50 min brisk walk instead.</text>
+<text x="450" y="1042" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="38" fill="#5B1626">Four candles, one big swim</text>
+</svg>

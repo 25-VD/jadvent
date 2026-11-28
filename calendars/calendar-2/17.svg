@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200" role="img" aria-label="Day 17 of 24: Climb 25 floors. Any stairwell at home or work: up briskly, down gently, until you’ve climbed 25 floors. No stairs? 4 rounds: 20 squats · 40 s high knees.">
+<title>Day 17 of 24: Climb 25 floors. Any stairwell at home or work: up briskly, down gently, until you’ve climbed 25 floors. No stairs? 4 rounds: 20 squats · 40 s high knees.</title>
+<defs>
+<radialGradient id="v" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#8A6A2E" stop-opacity="0"/><stop offset="100%" stop-color="#8A6A2E" stop-opacity=".2"/></radialGradient>
+</defs>
+<rect width="900" height="1200" fill="#F6F0E4"/>
+<rect width="900" height="1200" fill="url(#v)"/>
+<rect x="38" y="38" width="824" height="1124" rx="30" fill="none" stroke="#C9A44C" stroke-width="2"/>
+<g transform="translate(104,104) rotate(20)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<g transform="translate(796,1096) rotate(200)"><g transform="rotate(8)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(52)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><g transform="rotate(-34)"><path d="M0,0 Q10,-15 21,-9 Q25,-21 37,-12 Q44,-22 53,-10 Q62,-13 72,0 Q62,13 53,10 Q44,22 37,12 Q25,21 21,9 Q10,15 0,0 Z" fill="#2F6B4F"/><path d="M4,0 H66" stroke="#F6F0E4" stroke-opacity=".45" stroke-width="1.2" fill="none"/></g><circle cx="-2" cy="-4" r="8" fill="#B3242E"/><circle cx="10" cy="8" r="7" fill="#B3242E"/><circle cx="-10" cy="9" r="6.5" fill="#981C26"/><circle cx="-4.5" cy="-6.5" r="2" fill="#fff" opacity=".55"/><circle cx="8" cy="6" r="1.7" fill="#fff" opacity=".55"/></g>
+<path transform="translate(240,359) scale(1.0)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/><path transform="translate(640,279) scale(0.7)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.8"/><path transform="translate(720,230) scale(0.6)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="0.7"/>
+<text x="454" y="196" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="23" letter-spacing="8" fill="#C9A44C">DAY 17 OF 24</text>
+<svg x="310" y="239" width="280" height="280" viewBox="0 0 300 300" overflow="visible">
+  <!-- solid ink staircase rising to the right; each tread has a small nosing lip -->
+  <path d="M50,250 V227 H45 V220 H88 V197 H83 V190 H126 V167 H121 V160 H164 V137 H159 V130 H202 V107 H197 V100 H240 V250 Z" fill="#5B1626"/>
+  <!-- thin ink ground line, as in the clue cards -->
+  <path d="M34,250 H256" stroke="#5B1626" stroke-width="3" stroke-linecap="round"/>
+  <!-- gold handrail on three posts -->
+  <path d="M69,180 V220 M145,120 V160 M221,60 V100" stroke="#C9A44C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M60,187.1 L230,52.9" stroke="#C9A44C" stroke-width="6" stroke-linecap="round"/>
+  <!-- small gold sparkle at the top -->
+  <path transform="translate(254,66) scale(1.1)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C"/>
+</svg>
+<text x="450" y="609.7" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="84" font-weight="bold" fill="#5B1626">Climb 25 floors</text>
+<path d="M378,666.5 H434 M466,666.5 H522" stroke="#C9A44C" stroke-width="1.5"/>
+<path transform="translate(450,667) scale(0.75)" d="M0,-10 L2.4,-2.4 L10,0 L2.4,2.4 L0,10 L-2.4,2.4 L-10,0 L-2.4,-2.4 Z" fill="#C9A44C" opacity="1"/>
+<text x="450" y="733.9" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">Any stairwell at home or work:</text><text x="450" y="787.9" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">up briskly, down gently,</text><text x="450" y="841.8" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#5B1626" fill-opacity=".86">until you’ve climbed 25 floors.</text>
+<text x="450" y="902.3" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-style="italic" fill="#7D5E27">No stairs? 4 rounds:</text><text x="450" y="947.1" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-style="italic" fill="#7D5E27">20 squats · 40 s high knees.</text>
+<text x="450" y="1042" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="38" fill="#5B1626">Up the chimney we go!</text>
+</svg>
